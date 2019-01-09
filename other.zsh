@@ -1,4 +1,5 @@
-alias chrome="/Applications/Google\\ \\Chrome.app/Contents/MacOS/Google\\ \\Chrome"
+alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome"
+alias chrome-proxy="chrome --proxy-server=\"socks5://127.0.0.1:8080\" --host-resolver-rules=\"MAP * 0.0.0.0 , EXCLUDE localhost\" --proxy-bypass-list=\"ai-test.uwhis.hosp.wisc.edu\" &>/dev/null &"
 alias forms="cd ~/Projects/cmu/forms"
 alias intranet="cd ~/Projects/cmu/intranet && jhome -v 1.7 && sdk use grails 2.2.5"
 alias weather="curl http://wttr.in"
