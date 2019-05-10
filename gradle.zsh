@@ -1,1 +1,0 @@
-alias gw='noglob ./gradlew'
