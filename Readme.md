@@ -1,5 +1,9 @@
 # David's Custom Oh-My-Zsh
 
-## Notes
+## Installation
 
-When cloning from git, use `git clone --recurse-submodules` so that plugins also get cloned.
+```
+cd ~/.oh-my-zsh
+rm -rf custom
+git clone --recurse-submodules git@github.com:dmtroyer/custom-oh-my-zsh.git custom
+```
