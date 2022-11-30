@@ -1,6 +1,6 @@
 [submodule "plugins/zsh-docker-aliases"]
 	path = plugins/zsh-docker-aliases
 	url = git@github.com:akarzim/zsh-docker-aliases.git
-[submodule "/home/aa-dmt146/.oh-my-zsh/custom/plugins/zsh-dircolors-solarized"]
-	path = /home/aa-dmt146/.oh-my-zsh/custom/plugins/zsh-dircolors-solarized
-	url = https://github.com/joel-porquet/zsh-dircolors-solarized
+[submodule "plugins/zsh-dircolors-solarized"]
+	path = plugins/zsh-dircolors-solarized
+	url = git@github.com:joel-porquet/zsh-dircolors-solarized.git
