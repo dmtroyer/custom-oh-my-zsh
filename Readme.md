@@ -1,5 +1,7 @@
 # David's Custom Oh-My-Zsh
 
+https://github.com/ohmyzsh/ohmyzsh/wiki/Customization
+
 ## Installation
 
 ```
