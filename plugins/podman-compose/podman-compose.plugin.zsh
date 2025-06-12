@@ -1,0 +1,18 @@
+cmd='podman compose'
+
+alias pC="$cmd"
+alias pCb="$cmd build"
+alias pCd="$cmd down"
+alias pCe="$cmd exec"
+alias pCk="$cmd kill"
+alias pClf="$cmd logs -f"
+alias pCps="$cmd ps"
+alias pCpull="$cmd pull"
+alias pCr="$cmd run"
+alias pCrit="$cmd run -it"
+alias pCrr="$cmd run --rm"
+alias pCrrit="$cmd run -it --rm"
+alias pCup="$cmd up"
+alias pCupb="$cmd up --build"
+alias pCupd="$cmd up -d"
+alias pCupdb="$cmd up -d --build"
